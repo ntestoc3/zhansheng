@@ -1,0 +1,19 @@
+{
+  "name": "zhansheng",
+  "version": "1.0.0",
+  "description": "打胜仗思维激活引擎——融合毛泽东思想、孙子兵法、稻盛和夫哲学、芒格多元模型、王阳明知行合一，驱动 AI 以顶尖战略思想完成业务交付。",
+  "homepage": "",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "zhansheng",
+      "path": "skills/zhansheng/SKILL.md"
+    }
+  ],
+  "commands": [
+    {
+      "name": "zhansheng",
+      "path": "commands/zhansheng.md"
+    }
+  ]
+}
